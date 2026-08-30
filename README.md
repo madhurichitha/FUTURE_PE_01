@@ -6,7 +6,9 @@ This project was created as part of the Future Interns Prompt Engineering Intern
 
 The objective is to use structured AI prompts to generate professional, persuasive, and website-ready content for a local business.
 
-For this project, the selected business is **Luxe Studio Salon**, a fictional premium salon brand.
+For this project, the selected business is Luxe Studio Salon, a fictional premium salon brand.
+
+---
 
 ## 2. Business Used
 
@@ -15,9 +17,11 @@ For this project, the selected business is **Luxe Studio Salon**, a fictional pr
 **Target Audience:** Customers looking for high-quality beauty and grooming services  
 **Brand Style:** Elegant, modern, minimal, and premium
 
+---
+
 ## 3. Project Objective
 
-The goal is to create AI-generated website content that can be used by a local salon to attract customers and encourage them to book services.
+The goal is to create AI-generated website content that can be used by a local salon to attract customers and encourage them to explore and book services.
 
 The generated content includes:
 
@@ -29,7 +33,34 @@ The generated content includes:
 - Contact information
 - Customer-focused messaging
 
-## 4. Prompt Engineering Approach
+---
+
+## 4. Project Output
+
+A website prototype for Luxe Studio Salon was generated using the structured prompt created for this task.
+
+The website demonstrates the generated homepage, services, pricing, About Us section, location/contact information, and WhatsApp booking CTA.
+
+Screenshots of the generated website are available in the `outputs` folder.
+
+---
+
+## 5. Deliverables
+
+- Structured AI prompt
+- AI-generated website copy
+- Homepage and hero content
+- Service descriptions
+- About Us content
+- Pricing content
+- Call-to-action and booking content
+- Contact and location information
+- Website screenshots
+- Public GitHub documentation
+
+---
+
+## 6. Prompt Engineering Approach
 
 A structured prompting approach was used to guide the AI in generating the website content.
 
@@ -47,7 +78,9 @@ The prompt specified:
 
 The generated content was then reviewed and refined to make it suitable for a professional salon website.
 
-## 5. Main Prompt
+---
+
+## 7. Main Prompt
 
 The following structured prompt was used to generate the Luxe Studio Salon website:
 
@@ -69,17 +102,21 @@ The following structured prompt was used to generate the Luxe Studio Salon websi
 >
 > The website should look premium and be impressive enough to convince a real salon owner to purchase a similar website.
 
-## 6. AI-Generated Website Content
+---
+
+## 8. AI-Generated Website Content
 
 The AI-generated website includes:
 
 ### Homepage
+
 - Premium hero section
 - "Where Beauty Meets Luxury" headline
 - WhatsApp booking CTA
 - Introduction to the salon
 
 ### Services
+
 - Haircut
 - Hair Spa
 - Hair Coloring
@@ -91,16 +128,19 @@ The AI-generated website includes:
 - Skincare
 
 ### Additional Content
+
 - Sample pricing
 - Before & After gallery
 - Customer testimonials
 - Expert stylist profiles
 - Why Choose Us section
-- Booking section
 - Contact information
-- Social media links
+- Location/map section
+- Conversion-focused CTAs
 
-## 7. Key Prompt Engineering Skills Demonstrated
+---
+
+## 9. Key Prompt Engineering Skills Demonstrated
 
 This project demonstrates:
 
@@ -114,18 +154,36 @@ This project demonstrates:
 - Local SEO-focused prompting
 - AI-assisted content workflow
 
-## 8. Tools Used
+---
 
-- AI language model / website generation tool
-- GitHub
+## 10. Tools Used
+
+- AI language model for prompt development and content generation
+- AI-assisted website generation tool
+- GitHub for documentation and submission
 - Web technologies used by the generated website
 
-## 9. Final Outcome
+---
+
+## 11. Final Outcome
 
 The final outcome is a premium salon website concept for Luxe Studio Salon, combining AI-generated website content with a modern user interface.
 
 The project demonstrates how Prompt Engineering can be used to solve a real-world local business content and website requirement.
 
-## 10. Project Purpose
+---
+
+## 12. Project Purpose
 
 This project is intended to demonstrate the practical use of AI prompting for creating website-ready content for local businesses as part of the Future Interns Prompt Engineering Internship.
+
+---
+
+## 13. Project Evidence
+
+The `outputs` folder contains:
+
+- Generated website copy
+- Screenshots of the completed website
+
+The `prompts` folder contains the structured prompt used for generating the website content.
